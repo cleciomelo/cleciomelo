@@ -2,7 +2,7 @@
  
 - :briefcase: Analista suporte TI
 - :books: Estudante de Azure Cloud
-- :computer: Interesse em Cloud e Segurança da Informaçõa
+- :computer: Interesse em Segurança da Informação e Cloud
 - :rocket: Sempre buscando evolução e aprendizado contínuo  
  
 ---
