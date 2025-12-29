@@ -3,7 +3,7 @@
 - :briefcase: Analista suporte TI
 - :books: Estudante de Azure Cloud
 - :computer: Interesse em Segurança da Informação e Cloud
-- :mortar_board: Certificado AWS/Azure 
+- :mortar_board: Certificado AWS/Azure/Cisco
 - :rocket: Sempre buscando evolução e aprendizado contínuo  
  
 ---
