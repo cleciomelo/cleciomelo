@@ -27,8 +27,7 @@
   <a href="https://www.instagram.com/cleciojosedasilvamelo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a 
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:SEUEMAIL@outlook.com"> <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge"
 </a>
   
   <a href="https://www.linkedin.com/in/clecio-melo/" target="_blank">
